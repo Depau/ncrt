@@ -7,7 +7,7 @@ a shell-like front-end is implemented.
 Soon I will finish it and add an urwid-based front-end, maybe some
 other GUI front-ends.
 
-# Project objectives
+# Project goals
 
 - Build something that will make me never want to open SecureCRT again
 - Be easy to use with a keyboard, easy and fast navigation
