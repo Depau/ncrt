@@ -1,0 +1,2 @@
+# Include default config
+include ncrt/config_default.yml
